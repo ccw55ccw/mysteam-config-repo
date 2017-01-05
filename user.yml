@@ -7,9 +7,9 @@ spring:
     index: 0
 
   datasource:
-    url: jdbc:mysql://localhost:3306/user_service
+    url: jdbc:mysql://150.95.131.37:3306/user_service?useUnicode=true&characterEncoding=utf-8
     username: root
-    password: root
+    password: ccwokm123
     testWhileIdle: true
     validationQuery: SELECT 1
 

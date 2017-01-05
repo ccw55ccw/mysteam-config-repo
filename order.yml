@@ -9,7 +9,7 @@ spring:
   datasource:
     url: jdbc:mysql://150.95.131.37:3306/order_service
     username: root
-    password: root
+    password: ccwokm123
     testWhileIdle: true
     validationQuery: SELECT 1
 
